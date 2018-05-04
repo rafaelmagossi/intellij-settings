@@ -1,5 +1,0 @@
-<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
-  <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-  </action>
-</keymap>
