@@ -1,0 +1,15 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-05-09T08:46:21</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.3.5.0.0</property>
+    <property name="modified">2018-05-09T10:56:05</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="24d400" />
+    <option name="DELETED_LINES_COLOR" value="d10e00" />
+    <option name="MODIFIED_LINES_COLOR" value="339fff" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="969077" />
+  </colors>
+</scheme>
